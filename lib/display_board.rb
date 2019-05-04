@@ -11,9 +11,8 @@
 #display_board
 
 def display_board
-  print display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
-display_board
+print display_board
