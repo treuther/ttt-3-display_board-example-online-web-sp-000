@@ -11,8 +11,9 @@
 #display_board
 
 def display_board
+  prints "A Tic Tac Toe Board"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
-print display_board
+display_board
